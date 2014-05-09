@@ -1,0 +1,7 @@
+<!--
+  This view is used to render the installed plugins page.
+-->
+<div>
+  This plugin exposes various pieces of script-accessible build data in the easier-to-use form of Token Macros.
+  It also provides several text/HTML templates considered by the developer to be useful across projects.
+</div>

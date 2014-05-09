@@ -1,0 +1,7 @@
+target
+work
+*.ipr
+*.iml
+*.iws
+.idea/*
+.settings
